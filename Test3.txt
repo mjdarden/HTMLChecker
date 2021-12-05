@@ -1,0 +1,16 @@
+<html lang="en">
+<head>
+  <h charset="utf-8">Header</h>
+
+  <title>The HTML5 Herald</title>
+  <br name="description" content="The HTML5 Herald">
+  <br name="author" content="SitePoint">
+
+  <link rel="stylesheet" href="css/styles.css?v=1.0">
+  </link
+</head>
+
+<body>
+  <script src="js/scripts.js"></script>
+</body>
+</html>
